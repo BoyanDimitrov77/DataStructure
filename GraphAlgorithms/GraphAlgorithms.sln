@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension\Extension.csproj", "{C7B44659-5DFA-47B1-BCB3-E9F6EAB84A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFSGraph", "BFSGraph\BFSGraph.csproj", "{76C061D4-FE2D-4265-9BA7-53E9D9B37EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFSGraph", "DFSGraph\DFSGraph.csproj", "{536DAFBC-97DE-4814-8A61-8F2FCC6CF7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraAlgorithm", "DijkstraAlgorithm\DijkstraAlgorithm.csproj", "{9A7A4D97-BB8E-4587-BB7A-6639F05A256B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prim", "Prim\Prim.csproj", "{32981340-D657-4D53-B7BD-1039BEF68F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kruskal", "Kruskal\Kruskal.csproj", "{EF19D810-82AC-4EA6-A1D7-894DF13653DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B44659-5DFA-47B1-BCB3-E9F6EAB84A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B44659-5DFA-47B1-BCB3-E9F6EAB84A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B44659-5DFA-47B1-BCB3-E9F6EAB84A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B44659-5DFA-47B1-BCB3-E9F6EAB84A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C061D4-FE2D-4265-9BA7-53E9D9B37EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C061D4-FE2D-4265-9BA7-53E9D9B37EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C061D4-FE2D-4265-9BA7-53E9D9B37EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C061D4-FE2D-4265-9BA7-53E9D9B37EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536DAFBC-97DE-4814-8A61-8F2FCC6CF7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536DAFBC-97DE-4814-8A61-8F2FCC6CF7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536DAFBC-97DE-4814-8A61-8F2FCC6CF7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536DAFBC-97DE-4814-8A61-8F2FCC6CF7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7A4D97-BB8E-4587-BB7A-6639F05A256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7A4D97-BB8E-4587-BB7A-6639F05A256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7A4D97-BB8E-4587-BB7A-6639F05A256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7A4D97-BB8E-4587-BB7A-6639F05A256B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32981340-D657-4D53-B7BD-1039BEF68F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32981340-D657-4D53-B7BD-1039BEF68F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32981340-D657-4D53-B7BD-1039BEF68F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32981340-D657-4D53-B7BD-1039BEF68F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF19D810-82AC-4EA6-A1D7-894DF13653DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF19D810-82AC-4EA6-A1D7-894DF13653DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF19D810-82AC-4EA6-A1D7-894DF13653DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF19D810-82AC-4EA6-A1D7-894DF13653DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

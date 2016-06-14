@@ -1,0 +1,5 @@
+E:\Documnets\DataStructure\Homework2\SortIntegersList\bin\Debug\SortIntegersList.exe.config
+E:\Documnets\DataStructure\Homework2\SortIntegersList\bin\Debug\SortIntegersList.exe
+E:\Documnets\DataStructure\Homework2\SortIntegersList\bin\Debug\SortIntegersList.pdb
+E:\Documnets\DataStructure\Homework2\SortIntegersList\obj\Debug\SortIntegersList.exe
+E:\Documnets\DataStructure\Homework2\SortIntegersList\obj\Debug\SortIntegersList.pdb

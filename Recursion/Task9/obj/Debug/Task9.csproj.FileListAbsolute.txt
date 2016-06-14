@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Recursion\Task9\bin\Debug\Task9.exe.config
+E:\Documnets\DataStructure\Recursion\Task9\bin\Debug\Task9.exe
+E:\Documnets\DataStructure\Recursion\Task9\bin\Debug\Task9.pdb
+E:\Documnets\DataStructure\Recursion\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Recursion\Task9\obj\Debug\Task9.exe
+E:\Documnets\DataStructure\Recursion\Task9\obj\Debug\Task9.pdb

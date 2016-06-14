@@ -1,0 +1,5 @@
+E:\Documnets\DataStructure\Recursion\Task3\bin\Debug\Task3.exe.config
+E:\Documnets\DataStructure\Recursion\Task3\bin\Debug\Task3.exe
+E:\Documnets\DataStructure\Recursion\Task3\bin\Debug\Task3.pdb
+E:\Documnets\DataStructure\Recursion\Task3\obj\Debug\Task3.exe
+E:\Documnets\DataStructure\Recursion\Task3\obj\Debug\Task3.pdb

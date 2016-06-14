@@ -1,0 +1,9 @@
+E:\Documnets\DataStructure\Homework3\TreeDirectory\bin\Debug\TreeDirectory.exe.config
+E:\Documnets\DataStructure\Homework3\TreeDirectory\bin\Debug\TreeDirectory.exe
+E:\Documnets\DataStructure\Homework3\TreeDirectory\bin\Debug\TreeDirectory.pdb
+E:\Documnets\DataStructure\Homework3\TreeDirectory\obj\Debug\TreeDirectory.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Homework3\TreeDirectory\obj\Debug\TreeDirectory.exe
+E:\Documnets\DataStructure\Homework3\TreeDirectory\obj\Debug\TreeDirectory.pdb
+E:\Documnets\DataStructure\Trees-and-Traversals\TreeDirectory\bin\Debug\TreeDirectory.exe.config
+E:\Documnets\DataStructure\Trees-and-Traversals\TreeDirectory\obj\Debug\TreeDirectory.exe
+E:\Documnets\DataStructure\Trees-and-Traversals\TreeDirectory\obj\Debug\TreeDirectory.pdb

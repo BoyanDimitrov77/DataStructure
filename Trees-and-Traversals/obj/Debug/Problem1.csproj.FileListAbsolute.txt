@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Homework3\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Homework3\bin\Debug\Homework3.dll.config
+E:\Documnets\DataStructure\Homework3\bin\Debug\Homework3.dll
+E:\Documnets\DataStructure\Homework3\bin\Debug\Homework3.pdb
+E:\Documnets\DataStructure\Homework3\obj\Debug\Homework3.dll
+E:\Documnets\DataStructure\Homework3\obj\Debug\Homework3.pdb

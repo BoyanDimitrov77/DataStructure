@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\bin\Debug\Kruskal.exe.config
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\bin\Debug\Kruskal.exe
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\bin\Debug\Kruskal.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\bin\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\bin\Debug\Extension.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\obj\Debug\Kruskal.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\obj\Debug\Kruskal.exe
+E:\Documnets\DataStructure\GraphAlgorithms\Kruskal\obj\Debug\Kruskal.pdb

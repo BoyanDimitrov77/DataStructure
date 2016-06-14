@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\bin\Debug\Prim.exe.config
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\bin\Debug\Prim.exe
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\bin\Debug\Prim.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\bin\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\bin\Debug\Extension.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\obj\Debug\Prim.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\obj\Debug\Prim.exe
+E:\Documnets\DataStructure\GraphAlgorithms\Prim\obj\Debug\Prim.pdb

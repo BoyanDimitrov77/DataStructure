@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\bin\Debug\SortingHomework.exe.config
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\bin\Debug\SortingHomework.exe
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\bin\Debug\SortingHomework.pdb
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\obj\Debug\SortingHomework.exe
+E:\Documnets\DataStructure\Data-Structures-and-Algorithms-master\09. Sorting-Algorithms\homework\obj\Debug\SortingHomework.pdb

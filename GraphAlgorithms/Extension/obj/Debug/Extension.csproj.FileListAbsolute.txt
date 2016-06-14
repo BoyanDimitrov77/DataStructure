@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\obj\Debug\Extension.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\bin\Debug\Extension.dll.config
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\bin\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\bin\Debug\Extension.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\obj\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\Extension\obj\Debug\Extension.pdb

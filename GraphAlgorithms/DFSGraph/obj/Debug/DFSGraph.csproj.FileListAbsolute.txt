@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\bin\Debug\DFSGraph.exe.config
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\bin\Debug\DFSGraph.exe
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\bin\Debug\DFSGraph.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\bin\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\bin\Debug\Extension.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\obj\Debug\DFSGraph.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\obj\Debug\DFSGraph.exe
+E:\Documnets\DataStructure\GraphAlgorithms\DFSGraph\obj\Debug\DFSGraph.pdb

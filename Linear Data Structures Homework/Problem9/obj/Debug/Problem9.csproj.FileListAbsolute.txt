@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Homework2\Problem9\bin\Debug\Problem9.exe.config
+E:\Documnets\DataStructure\Homework2\Problem9\bin\Debug\Problem9.exe
+E:\Documnets\DataStructure\Homework2\Problem9\bin\Debug\Problem9.pdb
+E:\Documnets\DataStructure\Homework2\Problem9\obj\Debug\Problem9.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Homework2\Problem9\obj\Debug\Problem9.exe
+E:\Documnets\DataStructure\Homework2\Problem9\obj\Debug\Problem9.pdb

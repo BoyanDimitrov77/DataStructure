@@ -1,0 +1,5 @@
+E:\Documnets\DataStructure\Dynamic Programming\MinimalEditDistance\bin\Debug\MinimalEditDistance.exe.config
+E:\Documnets\DataStructure\Dynamic Programming\MinimalEditDistance\bin\Debug\MinimalEditDistance.exe
+E:\Documnets\DataStructure\Dynamic Programming\MinimalEditDistance\bin\Debug\MinimalEditDistance.pdb
+E:\Documnets\DataStructure\Dynamic Programming\MinimalEditDistance\obj\Debug\MinimalEditDistance.exe
+E:\Documnets\DataStructure\Dynamic Programming\MinimalEditDistance\obj\Debug\MinimalEditDistance.pdb

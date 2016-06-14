@@ -1,0 +1,2 @@
+E:\Documnets\DataStructure\Homework2\Problem12\bin\Debug\Problem12.exe.config
+E:\Documnets\DataStructure\Homework2\Problem12\obj\Debug\Problem12.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\bin\Debug\DijkstraAlgorithm.exe.config
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\bin\Debug\DijkstraAlgorithm.exe
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\bin\Debug\DijkstraAlgorithm.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\bin\Debug\Extension.dll
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\bin\Debug\Extension.pdb
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\obj\Debug\DijkstraAlgorithm.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\obj\Debug\DijkstraAlgorithm.exe
+E:\Documnets\DataStructure\GraphAlgorithms\DijkstraAlgorithm\obj\Debug\DijkstraAlgorithm.pdb

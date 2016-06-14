@@ -1,0 +1,7 @@
+E:\Documnets\DataStructure\Homework6\Problem3\bin\Debug\Problem3.exe.config
+E:\Documnets\DataStructure\Homework6\Problem3\bin\Debug\Problem3.exe
+E:\Documnets\DataStructure\Homework6\Problem3\bin\Debug\Problem3.pdb
+E:\Documnets\DataStructure\Homework6\Problem3\bin\Debug\PowerCollections.dll
+E:\Documnets\DataStructure\Homework6\Problem3\bin\Debug\PowerCollections.xml
+E:\Documnets\DataStructure\Homework6\Problem3\obj\Debug\Problem3.exe
+E:\Documnets\DataStructure\Homework6\Problem3\obj\Debug\Problem3.pdb

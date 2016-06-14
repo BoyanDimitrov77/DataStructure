@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\bin\Debug\Problem5UnitTest.dll
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\bin\Debug\Problem5UnitTest.pdb
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\bin\Debug\Problem5.dll
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\bin\Debug\Problem5.pdb
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\obj\Debug\Problem5UnitTest.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\obj\Debug\Problem5UnitTest.dll
+E:\Documnets\DataStructure\Homework4\Problem5UnitTest\obj\Debug\Problem5UnitTest.pdb

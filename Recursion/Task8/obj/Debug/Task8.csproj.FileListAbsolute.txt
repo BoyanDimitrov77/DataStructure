@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Recursion\Task8\bin\Debug\Task8.exe.config
+E:\Documnets\DataStructure\Recursion\Task8\bin\Debug\Task8.exe
+E:\Documnets\DataStructure\Recursion\Task8\bin\Debug\Task8.pdb
+E:\Documnets\DataStructure\Recursion\Task8\obj\Debug\Task8.exe
+E:\Documnets\DataStructure\Recursion\Task8\obj\Debug\Task8.pdb
+E:\Documnets\DataStructure\Recursion\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache

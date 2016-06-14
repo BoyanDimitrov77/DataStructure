@@ -1,0 +1,5 @@
+E:\Documnets\DataStructure\Homework2\Problem6\bin\Debug\Problem6.exe.config
+E:\Documnets\DataStructure\Homework2\Problem6\bin\Debug\Problem6.exe
+E:\Documnets\DataStructure\Homework2\Problem6\bin\Debug\Problem6.pdb
+E:\Documnets\DataStructure\Homework2\Problem6\obj\Debug\Problem6.exe
+E:\Documnets\DataStructure\Homework2\Problem6\obj\Debug\Problem6.pdb

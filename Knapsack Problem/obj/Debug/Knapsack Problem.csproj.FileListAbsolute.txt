@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Knapsack Problem\bin\Debug\Knapsack Problem.exe.config
+E:\Documnets\DataStructure\Knapsack Problem\bin\Debug\Knapsack Problem.exe
+E:\Documnets\DataStructure\Knapsack Problem\bin\Debug\Knapsack Problem.pdb
+E:\Documnets\DataStructure\Knapsack Problem\obj\Debug\Knapsack Problem.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Knapsack Problem\obj\Debug\Knapsack Problem.exe
+E:\Documnets\DataStructure\Knapsack Problem\obj\Debug\Knapsack Problem.pdb

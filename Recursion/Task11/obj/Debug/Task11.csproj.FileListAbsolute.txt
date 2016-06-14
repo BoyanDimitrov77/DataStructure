@@ -1,0 +1,6 @@
+E:\Documnets\DataStructure\Recursion\Task11\bin\Debug\Task11.exe.config
+E:\Documnets\DataStructure\Recursion\Task11\bin\Debug\Task11.exe
+E:\Documnets\DataStructure\Recursion\Task11\bin\Debug\Task11.pdb
+E:\Documnets\DataStructure\Recursion\Task11\obj\Debug\Task11.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Recursion\Task11\obj\Debug\Task11.exe
+E:\Documnets\DataStructure\Recursion\Task11\obj\Debug\Task11.pdb

@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\Homework6\Problem1\bin\Debug\Problem1.exe.config
+E:\Documnets\DataStructure\Homework6\Problem1\bin\Debug\Problem1.exe
+E:\Documnets\DataStructure\Homework6\Problem1\bin\Debug\Problem1.pdb
+E:\Documnets\DataStructure\Homework6\Problem1\bin\Debug\PowerCollections.dll
+E:\Documnets\DataStructure\Homework6\Problem1\bin\Debug\PowerCollections.xml
+E:\Documnets\DataStructure\Homework6\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\Homework6\Problem1\obj\Debug\Problem1.exe
+E:\Documnets\DataStructure\Homework6\Problem1\obj\Debug\Problem1.pdb

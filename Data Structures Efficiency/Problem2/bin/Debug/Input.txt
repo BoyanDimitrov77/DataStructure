@@ -1,0 +1,28 @@
+AddProduct Beer Zagorka;1.20;asdsaasdasd
+AddProduct Beer Zagorka Gold;0.85;adasdsad
+AddProduct Beer Kamenitza;1.05;dasdsadsad
+AddProduct Rakiya Grozdova;6.98;klsdwjqekd
+AddProduct Rakiya Muskatova;7.33;asdh0wqd
+AddProduct Mastika Peshtera;8.22;dsadya9sd
+AddProduct Rakiya;12;dsadyuas9djas
+AddProduct Rakiya Grozdova;10.8;dsadkuasd
+AddProduct Rakiya;12;8wqumcsdsajkd
+AddProduct Beer Zagorka Draft;0.76;ajsdhsakldjsa
+AddProduct Vodka;11.33;dsauyd98
+AddProduct Vodka;12.36;kajsdsaod
+AddProduct Vodka Nashenska;4.66;w7yadsd
+AddProduct Rakiya Nashenska;3.7;jasdtuashdj
+AddProduct Rakiya Nashenska;3.7;asjdykhsajl
+AddProduct Rakiya Mente;1.25;ashjdgias
+AddProduct Oslepitelna Rakiya;0.96;dasudysoa
+AddProduct Vodka Studentska;2.45;dasytyrdtiashd
+AddProduct Romsko Pivo;0.36;dasudtyias
+AddProduct Dolnoprobna Bira;0.32;duyasdyhsajlkd
+AddProduct rakiya;8.5;dasudytyasjd
+AddProduct vodka;9.6;dasudykasj
+AddProduct Beer Zagorka;1.2;yatsdjgsa
+AddProduct Vodka;8.3;sadyutyasj
+FindProductsByPriceRange 1.20;1.25
+FindProductsByPriceRange 0.00;0.10
+FindProductsByPriceRange 3.0;7
+FindProductsByPriceRange 0;0.99

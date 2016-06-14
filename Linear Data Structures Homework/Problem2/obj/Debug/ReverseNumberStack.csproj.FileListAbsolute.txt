@@ -1,0 +1,5 @@
+E:\Documnets\DataStructure\Homework2\ReverseNumberStack\bin\Debug\ReverseNumberStack.exe.config
+E:\Documnets\DataStructure\Homework2\ReverseNumberStack\bin\Debug\ReverseNumberStack.exe
+E:\Documnets\DataStructure\Homework2\ReverseNumberStack\bin\Debug\ReverseNumberStack.pdb
+E:\Documnets\DataStructure\Homework2\ReverseNumberStack\obj\Debug\ReverseNumberStack.exe
+E:\Documnets\DataStructure\Homework2\ReverseNumberStack\obj\Debug\ReverseNumberStack.pdb

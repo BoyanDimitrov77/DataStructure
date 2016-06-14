@@ -1,0 +1,8 @@
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\bin\Debug\Trees.Test.exe.config
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\bin\Debug\Trees.Test.exe
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\bin\Debug\Trees.Test.pdb
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\bin\Debug\AvlTrees.dll
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\bin\Debug\AvlTrees.pdb
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\obj\Debug\Trees.Test.csprojResolveAssemblyReference.cache
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\obj\Debug\Trees.Test.exe
+E:\Documnets\DataStructure\AvlTrees\Trees.Test\obj\Debug\Trees.Test.pdb
